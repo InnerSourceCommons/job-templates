@@ -1,8 +1,9 @@
 # InnerSource Job Templates
 
 A collection of job descriptions for InnerSource roles.
-These are actual job descriptions of organizations that have recruited for these roles.
+See [/jobs](jobs) folder.
 
+These are actual job descriptions of organizations that have recruited for these roles.
 You may use these as templates for writing your own job descriptions.
 
 _Note:_ This is not a listing of currently available roles.
