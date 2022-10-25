@@ -44,10 +44,6 @@ Preferred Qualifications:
 
 Does this sound exciting to you? Apply today and let us know how you thrive on cross-team  collaboration, enjoy openness and diversity, like to learn from others and use your experience and great communication skills to convey your message.
 
-Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
-
-Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.  We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
-
 ## Meta
 
 * extracted from https://careers.microsoft.com/us/en/job/1128990/
